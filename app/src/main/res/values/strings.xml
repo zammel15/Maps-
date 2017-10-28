@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Maps</string><!--esem lapplication Maps badelha beli theb-->
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Hello Geeks!</string><!--hedha a titre lkbit-->
+    <string name="slide_1_desc">Improving society start with improving ourselfs</string><!--hedha eli as5er menou-->
+
+    <string name="slide_2_title">Share Is Care</string>
+    <string name="slide_2_desc">Early detection saves alot of lives</string>
+
+    <string name="slide_3_title">Great Opportunity</string>
+    <string name="slide_3_desc">You canwin money out of this or get a job</string>
+
+    <string name="slide_4_title">A bright Future </string>
+    <string name="slide_4_desc">Dont do it for yourself , do it for your children</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
